@@ -2,8 +2,9 @@
 #
 # Title: Wireshark PCAP Capture & Examine
 # Author: BuffBaby253
+# Version: 1.1
 # 
-# uses tcpdump to capture network traffic for 1 minute and saves pcaps
+# Description: uses tcpdump to capture network traffic for 1 minute and saves pcaps
 # into loot storage folder for further analysis in Wireshark
 #
 # LED SETUP   making loot directory and waiting for an ip address from DHCP
