@@ -1,4 +1,4 @@
-**The Shark Jack**
+# The Shark Jack
 
 The Shark Jack is a hotplug attack tool that uses DuckyScript and Bash to deliever payloads to any ethernet port with an active connection.
 
